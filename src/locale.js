@@ -9,7 +9,7 @@ module.exports = {
     en: 'Author Name'
   },
   PLUGIN_HELP: {
-    en: "This is an example plugin that provides action commands & link conditions to manage a 'count' value in stored in the plugin's internal data."
+    en: "This is an example plugin that provides action commands & link conditions to\nmanage a 'count' value in stored in the plugin's internal data."
   },
 
   PARAM_DELTA: {
